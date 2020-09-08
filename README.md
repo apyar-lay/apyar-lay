@@ -29,3 +29,16 @@ pagination
 
 
 https://apyar.glitch.me/?search=ကိုကို&select=title&page=2
+
+Example Link
+
+https://apyar.glitch.me/?search=မမ&select=body title
+
+
+https://apyar.glitch.me/?title=မမ&select=title
+
+
+https://apyar.glitch.me/?search=မမ&page=2
+
+
+https://apyar.glitch.me/?search=မမ&page=3
